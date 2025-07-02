@@ -1,6 +1,6 @@
-# DMV Hour Tracker
+# Official State DMV Links
 
-**Find Your Official State DMV Website**
+**Instantly find your state’s official DMV website**
 
 A comprehensive directory of official DMV websites for all 50 US states and Washington DC.
 
@@ -8,7 +8,7 @@ A comprehensive directory of official DMV websites for all 50 US states and Wash
 
 ### Step 1: Create GitHub Repository
 1. Go to github.com and create new repository
-2. Name: `dmv-hour-tracker`
+2. Name: `Official State DMV Links`
 3. Make it Public
 4. Don't add README
 
