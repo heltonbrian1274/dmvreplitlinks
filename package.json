@@ -1,0 +1,13 @@
+{
+  "name": "dmv-hour-tracker",
+  "version": "1.0.0",
+  "description": "DMV Hour Tracker - Official State DMV Directory",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site ready for deployment'",
+    "start": "echo 'Site deployed successfully'"
+  },
+  "keywords": ["dmv", "state", "government", "links", "directory"],
+  "author": "DMV Hour Tracker",
+  "license": "MIT"
+}
